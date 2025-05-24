@@ -32,7 +32,7 @@ A fullstack project to load, store, search, and view recipes using a Flask backe
 
 #### 🔧 Steps
 
-#### 🔑 Configure `config.py`
+#### 🔑 Configure `.env`
 
 ```
 

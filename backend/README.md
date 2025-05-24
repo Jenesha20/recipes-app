@@ -7,7 +7,7 @@ This Flask backend provides RESTful endpoints to serve recipe data with filterin
 ## 🚀 Features
 
 - Fetch all recipes with pagination and sorting.
-- Search recipes using flexible filters (`title`, `cuisine`, `rating`, `total_time`, `nutrients.calories`).
+- Search recipes using flexible filters (`title`, `cuisine`, `rating`, `total_time`, `nutrients,calories`).
 - CORS enabled for frontend integration.
 
 ---
