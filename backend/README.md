@@ -28,10 +28,10 @@ cd backend
 Edit `config.py` with your MongoDB URI and database settings:
 
 ```python
-class Config:
-    MONGO_URI = 'mongodb://localhost:27017'
-    DATABASE_NAME = 'recipes_db'
-    RECIPES_COLLECTION = 'recipes'
+class .env:
+   MONGO_URI=mongodb://localhost:27017/
+   DATABASE_NAME=recipes_db
+   RECIPES_COLLECTION=recipes
 ```
 
 ---
